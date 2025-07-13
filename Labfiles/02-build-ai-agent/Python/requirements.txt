@@ -1,2 +1,6 @@
-python-dotenv 
-azure-identity
+# requirements.txt
+openai
+python-dotenv
+pandas
+matplotlib
+ipython

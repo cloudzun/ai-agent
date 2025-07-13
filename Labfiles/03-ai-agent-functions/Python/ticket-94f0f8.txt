@@ -1,0 +1,4 @@
+Support ticket: 94f0f8
+Submitted by: info@cloudzun.com
+Description:
+无法访问外部网站，显示dns无法解析
